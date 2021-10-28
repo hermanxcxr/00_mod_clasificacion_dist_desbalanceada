@@ -1,0 +1,2 @@
+# 00_mod_clasificacion_dist_desbalanceada
+Classification model with Logistic regression for imbalanced distribution
